@@ -1,3 +1,4 @@
+//all content belong to www.blogger-store.com visit there is you are looking for cool scripts for your websites to increase traffic
 // go/mss-setup#7-load-the-js-or-css-from-your-initial-page
     if(!window['_DumpException']) {
       const _DumpException = window['_DumpException'] || function(e) {
